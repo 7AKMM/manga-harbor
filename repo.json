@@ -7,7 +7,7 @@
       "version": "1.0.0",
       "lang": "en",
       "nsfw": false,
-      "entry": "https://gist.githubusercontent.com/..."
+      "entry": "mangabaka.plugin.js"
     }
   ]
 }
