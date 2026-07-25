@@ -1,0 +1,14 @@
+{
+  "name": "MangaDex Repo",
+  "plugins": [
+    {
+      "id": "mangadex-en",
+      "name": "MangaDex (EN)",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://mangadex.org/favicon.svg",
+      "entry": "mangadex-en.plugin.js"
+    }
+  ]
+}
