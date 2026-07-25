@@ -1,0 +1,14 @@
+{
+  "name": "Bdalh Manga Repo",
+  "plugins": [
+    {
+      "id": "mangabaka-mangalik-ar",
+      "name": "MangaBaka + MangaDar",
+      "version": "1.1.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://mangadar.com/wp-content/uploads/2026/07/favicon-300x300.png",
+      "entry": "mangabaka-mangalik-ar.plugin.js"
+    }
+  ]
+}
